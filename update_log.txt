@@ -1,0 +1,14 @@
+Update Log
+
+NGG-TDM v1.0
+
+New truck, gate truck tự động.
+Khu an toàn (Faction có thể cầm súng).
+New VIP.
+Thêm group/xe/locker Viet Nam Racing Boy, Grove Street, Ballas, Varrios Los Aztecas, Los Santos Vagos.
+Nhặt súng, vứt súng (/nhatsung, /vutsung).
+Giết người có thưởng.
+Sửa lại thời gian hồi sinh bệnh viện (giảm thời gian).
+Code Tog lịch sử, Tài xỉu.
+Hiện death log (lịch sử khi chết).
+10 Skin Custom trong VIP Locker (/viplocker).
