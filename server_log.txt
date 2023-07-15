@@ -3079,3 +3079,151 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:59:07] [part] Khoi_Nguyenz has left the server (0:1)
 [14:00:26] Bai toan cho 20000$ neu ai tra loi dung --> 51 + 63 - 52 + 29 = ?
 [14:00:27] [plant] 300 plants saved
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:45:43] password = ""  (string)
+[00:45:43] 
+[00:45:43] Server Plugins
+[00:45:43] --------------
+[00:45:43]  Loading plugin: streamer
+[00:45:43] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[00:45:43]   Loaded.
+[00:45:43]  Loading plugin: mysql
+[00:45:43]  >> plugin.mysql: R33 successfully loaded.
+[00:45:43]   Loaded.
+[00:45:43]  Loading plugin: sscanf
+[00:45:43] 
+
+[00:45:43]  ===============================
+
+[00:45:43]       sscanf plugin loaded.     
+
+[00:45:43]    (c) 2009 Alex "Y_Less" Cole
+
+[00:45:43]    0.3d-R2 500 Players "dnee"
+
+[00:45:43]  ===============================
+
+[00:45:43]   Loaded.
+[00:45:43]  Loading plugin: whirlpool
+[00:45:43]  
+[00:45:43]  ==================
+[00:45:43]  
+[00:45:43]   Whirlpool loaded
+[00:45:43]  
+[00:45:43]  ==================
+[00:45:43]  
+[00:45:43]   Loaded.
+[00:45:43]  Loading plugin: cef
+[00:45:43]   Loaded.
+[00:45:43]  Loading plugin: sampp_server
+[00:45:43] [SA-MP+] Loaded
+[00:45:43]   Loaded.
+[00:45:43]  Loaded 6 plugins.
+
+[00:45:43] 
+[00:45:43] Ban list
+[00:45:43] --------
+[00:45:43]  Loaded: samp.ban
+[00:45:43] 
+[00:45:43] 
+[00:45:43] Filterscripts
+[00:45:43] ---------------
+[00:45:43]   Loading filterscript 'exterior.amx'...
+[00:45:43] AMX (61429160) loaded
+[00:45:43]   Loading filterscript 'interior.amx'...
+[00:45:43] AMX (61384904) loaded
+[00:45:43] [connection] 127.0.0.1:49735 requests connection cookie.
+[00:45:43]   Loading filterscript 'server.amx'...
+[00:45:43] AMX (61298648) loaded
+[00:45:44]   Loading filterscript 'hanhdong.amx'...
+[00:45:44] AMX (61276520) loaded
+[00:45:44]  
+[00:45:44]  ======================================= 
+[00:45:44]  |                                     | 
+[00:45:44]  |        YSI version 3.01.0002        | 
+[00:45:44]  |        By Alex "Y_Less" Cole        | 
+[00:45:44]  |                                     | 
+[00:45:44]  ======================================= 
+[00:45:44]  
+[00:45:44]   Loading filterscript 'object.amx'...
+[00:45:44] AMX (61238000) loaded
+[00:45:44]   Loaded 5 filterscripts.
+
+[00:45:44] AMX (61386536) loaded
+[00:45:44]  
+[00:45:44]  ======================================= 
+[00:45:44]  |                                     | 
+[00:45:44]  |        YSI version 3.01.0002        | 
+[00:45:44]  |        By Alex "Y_Less" Cole        | 
+[00:45:44]  |                                     | 
+[00:45:44]  ======================================= 
+[00:45:44]  
+[00:45:44] Dang chuan bi tai gamemode, xin vui long cho doi...
+[00:45:46] [MySQL] (Main Pipelines) Connecting to localhost...
+[00:45:46] [MySQL] (MainPipeline) Fatal Error! Could not connect to MySQL: Host localhost - DB: svn2 - User: root
+[00:45:46] [MySQL] Note: Make sure that you have provided the correct connection credentials.
+[00:45:46] [MySQL] Error number: 2003
+[00:45:46] Bai toan cho 20000$ neu ai tra loi dung --> 44 + 10 - 99 + 27 = ?
+[00:45:46] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[00:45:46] [LoadCrates] Load Query Sent
+[00:45:46] [LoadHouses] Loading data from database...
+[00:45:46] [LoadDynamicDoors] Loading data from database...
+[00:45:46] [LoadDynamicMapIcons] Loading data from database...
+[00:45:46] [LoadMailboxes] Loading data from database...
+[00:45:46] [LoadBusinesses] Loading data from database...
+[00:45:46] [LoadAuctions] Loading data from database...
+[00:45:46] [LoadTxtLabels] Loading data from database...
+[00:45:46] [LoadPlants] Loading data from database...
+[00:45:46] [SpeedCameras] Loading data from database...
+[00:45:46] [LoadPayNSprays] Loading data from database...
+[00:45:46] [LoadArrestPoints] Loading data from database...
+[00:45:46] [LoadImpoundPoints] Loading data from database...
+[00:45:46] [LoadRelayForLifeTeams] Loading data from database...
+[00:45:46] [LoadBusinessSales] Loading data from database...
+[00:45:46] [LoadTurfWars] 65 turfs loaded.
+[00:45:46] [LoadPaintballArenas] 10 paintball arenas loaded.
+[00:45:46] [LoadEventPoints] 1 event points loaded.
+[00:45:46] [LoadGates] Loading data from database...
+[00:45:46] [LoadElevatorStuff] 20 floors loaded.
+[00:45:46] [LoadFamilies] Dang tai du lieu tu database...
+[00:45:46] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[00:45:46] [MiscLoad] Misc Loaded
+[00:45:46] Resetting news...
+[00:45:46] Resetting default server variables..
+[00:45:46] Adjusted the server time...
+[00:45:46] [Streamer] Loading Dynamic Static Vehicles...
+[00:45:46] [Streamer] Dynamic Static Vehicles has been loaded.
+[00:45:46] [Streamer] Loading Dynamic Pickups...
+[00:45:46] [Streamer] Dynamic Pickups has been loaded.
+[00:45:46] [Streamer] Loading 3D Text Labels...
+[00:45:46] [Streamer] Dynamic 3D Text Labels has been loaded.
+[00:45:46] [Streamer] Loading Dynamic Buttons...
+[00:45:46] [Streamer] Dynamic Buttons has been loaded.
+[00:45:46] [Streamer] Loading Dynamic Objects...
+[00:45:46] [Streamer] Dynamic Objects has been loaded.
+[00:45:46] [Textdraws] Loading Textdraws...
+[00:45:46] [Textdraws] Loaded textdraws.
+[00:45:46] [Dynamic Groups] Loading Dynamic Groups...
+[00:45:46] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[00:45:46] 
+-------------------------------------------
+[00:45:46] SA-MP VN Blog
+
+[00:45:46] Copyright � SA-MP VN Blog 2018
+[00:45:46] sampvn94.blogspot.com
+[00:45:46] -------------------------------------------
+
+[00:45:46] Da chay thanh cong gamemode...
+[00:45:46] Number of vehicle models: 15
+[00:45:46] --- Server Shutting Down.

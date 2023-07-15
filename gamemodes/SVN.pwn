@@ -12,6 +12,7 @@
 #include <YSI\y_utils>
 #include <crashdetect>
 #include <YSI\y_hooks>
+#include <SAMPPLUS>
 #if defined SOCKET_ENABLED
 #include <socket>
 #endif
