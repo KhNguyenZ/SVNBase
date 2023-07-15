@@ -2321,11 +2321,7 @@ public OnPlayerEnterVehicle(playerid, vehicleid, ispassenger)
 }
 
 public OnPlayerConnect(playerid) {
-	for(new i = 0; i < 6; i++)
-	{
-		ToggleHUDComponentForPlayer(playerid, i, true);
-	}
-	ToggleHUDComponentForPlayer(playerid, 8, true);
+
 	if(IsPlayerNPC(playerid)) return 1;
 
 	g_arrQueryHandle{playerid} = random(256);

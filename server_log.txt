@@ -3227,3 +3227,495 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [00:45:46] Da chay thanh cong gamemode...
 [00:45:46] Number of vehicle models: 15
 [00:45:46] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:01:42] password = ""  (string)
+[01:01:42] 
+[01:01:42] Server Plugins
+[01:01:42] --------------
+[01:01:42]  Loading plugin: streamer
+[01:01:42] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[01:01:42]   Loaded.
+[01:01:42]  Loading plugin: mysql
+[01:01:42]  >> plugin.mysql: R33 successfully loaded.
+[01:01:42]   Loaded.
+[01:01:42]  Loading plugin: sscanf
+[01:01:42] 
+
+[01:01:42]  ===============================
+
+[01:01:42]       sscanf plugin loaded.     
+
+[01:01:42]    (c) 2009 Alex "Y_Less" Cole
+
+[01:01:42]    0.3d-R2 500 Players "dnee"
+
+[01:01:42]  ===============================
+
+[01:01:42]   Loaded.
+[01:01:42]  Loading plugin: whirlpool
+[01:01:42]  
+[01:01:42]  ==================
+[01:01:42]  
+[01:01:42]   Whirlpool loaded
+[01:01:42]  
+[01:01:42]  ==================
+[01:01:42]  
+[01:01:42]   Loaded.
+[01:01:42]  Loading plugin: cef
+[01:01:42]   Loaded.
+[01:01:42]  Loading plugin: sampp_server
+[01:01:42] [SA-MP+] Loaded
+[01:01:42]   Loaded.
+[01:01:42]  Loaded 6 plugins.
+
+[01:01:42] 
+[01:01:42] Ban list
+[01:01:42] --------
+[01:01:42]  Loaded: samp.ban
+[01:01:42] 
+[01:01:42] 
+[01:01:42] Filterscripts
+[01:01:42] ---------------
+[01:01:42]   Loading filterscript 'exterior.amx'...
+[01:01:42] AMX (62150056) loaded
+[01:01:42]   Loading filterscript 'interior.amx'...
+[01:01:42] AMX (62105800) loaded
+[01:01:42]   Loading filterscript 'server.amx'...
+[01:01:43] AMX (62041672) loaded
+[01:01:43]   Loading filterscript 'hanhdong.amx'...
+[01:01:43] AMX (62019544) loaded
+[01:01:43]  
+[01:01:43]  ======================================= 
+[01:01:43]  |                                     | 
+[01:01:43]  |        YSI version 3.01.0002        | 
+[01:01:43]  |        By Alex "Y_Less" Cole        | 
+[01:01:43]  |                                     | 
+[01:01:43]  ======================================= 
+[01:01:43]  
+[01:01:43]   Loading filterscript 'object.amx'...
+[01:01:43] AMX (61997416) loaded
+[01:01:43]   Loaded 5 filterscripts.
+
+[01:01:43] AMX (62107432) loaded
+[01:01:43]  
+[01:01:43]  ======================================= 
+[01:01:43]  |                                     | 
+[01:01:43]  |        YSI version 3.01.0002        | 
+[01:01:43]  |        By Alex "Y_Less" Cole        | 
+[01:01:43]  |                                     | 
+[01:01:43]  ======================================= 
+[01:01:43]  
+[01:01:43] Dang chuan bi tai gamemode, xin vui long cho doi...
+[01:01:43] [MySQL] (Main Pipelines) Connecting to localhost...
+[01:01:43] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[01:01:43] Bai toan cho 20000$ neu ai tra loi dung --> 73 + 31 - 57 + 22 = ?
+[01:01:43] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[01:01:43] [LoadCrates] Load Query Sent
+[01:01:43] [LoadHouses] Loading data from database...
+[01:01:43] [LoadDynamicDoors] Loading data from database...
+[01:01:43] [LoadDynamicMapIcons] Loading data from database...
+[01:01:43] [LoadMailboxes] Loading data from database...
+[01:01:43] [LoadBusinesses] Loading data from database...
+[01:01:43] [LoadAuctions] Loading data from database...
+[01:01:43] [LoadTxtLabels] Loading data from database...
+[01:01:43] [LoadPlants] Loading data from database...
+[01:01:43] [SpeedCameras] Loading data from database...
+[01:01:43] [LoadPayNSprays] Loading data from database...
+[01:01:43] [LoadArrestPoints] Loading data from database...
+[01:01:43] [LoadImpoundPoints] Loading data from database...
+[01:01:43] [LoadRelayForLifeTeams] Loading data from database...
+[01:01:43] [LoadBusinessSales] Loading data from database...
+[01:01:43] [LoadTurfWars] 65 turfs loaded.
+[01:01:43] [LoadPaintballArenas] 10 paintball arenas loaded.
+[01:01:43] [LoadEventPoints] 1 event points loaded.
+[01:01:43] [LoadGates] Loading data from database...
+[01:01:43] [LoadElevatorStuff] 20 floors loaded.
+[01:01:43] [LoadFamilies] Dang tai du lieu tu database...
+[01:01:43] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[01:01:43] [MiscLoad] Misc Loaded
+[01:01:43] Resetting news...
+[01:01:43] Resetting default server variables..
+[01:01:43] Adjusted the server time...
+[01:01:43] [Streamer] Loading Dynamic Static Vehicles...
+[01:01:43] [Streamer] Dynamic Static Vehicles has been loaded.
+[01:01:43] [Streamer] Loading Dynamic Pickups...
+[01:01:43] [Streamer] Dynamic Pickups has been loaded.
+[01:01:43] [Streamer] Loading 3D Text Labels...
+[01:01:43] [Streamer] Dynamic 3D Text Labels has been loaded.
+[01:01:43] [Streamer] Loading Dynamic Buttons...
+[01:01:43] [Streamer] Dynamic Buttons has been loaded.
+[01:01:43] [Streamer] Loading Dynamic Objects...
+[01:01:43] [Streamer] Dynamic Objects has been loaded.
+[01:01:43] [Textdraws] Loading Textdraws...
+[01:01:43] [Textdraws] Loaded textdraws.
+[01:01:43] [Dynamic Groups] Loading Dynamic Groups...
+[01:01:43] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[01:01:43] 
+-------------------------------------------
+[01:01:43] SA-MP VN Blog
+
+[01:01:43] Copyright � SA-MP VN Blog 2018
+[01:01:43] sampvn94.blogspot.com
+[01:01:43] -------------------------------------------
+
+[01:01:43] Da chay thanh cong gamemode...
+[01:01:43] Number of vehicle models: 15
+[01:01:43] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[01:01:43] [LoadCrates] Loading Crates Finished
+[01:01:43] [LoadDynamicDoors] 3000 door duoc tai.
+[01:01:43] [LoadDynamicMapIcons] Khong the tai icons map.
+[01:01:43] [LoadMailboxes] 50 mailboxes duoc tai.
+[01:01:44] [LoadBusinesses] 200 businesses rehashed/loaded.
+[01:01:44] [LoadPlants] Successfully loaded 300 plants
+[01:01:44] [SpeedCameras] Khong the tai cac may ban toc do.
+[01:01:44] [LoadRelayForLifeTeams] 200 teams loaded.
+[01:01:44] [LOADSALEDATA] Inserted new row into `sales`
+[01:01:44] Price0: 1500
+[01:01:44] Price1: 1000
+[01:01:44] Price2: 1000
+[01:01:44] Price3: 500
+[01:01:44] Price4: 100
+[01:01:44] Price5: 500
+[01:01:44] Price6: 250
+[01:01:44] Price7: 500
+[01:01:44] Price8: 100
+[01:01:44] Price9: 100
+[01:01:44] Price10: 100
+[01:01:44] Price11: 150
+[01:01:44] Price12: 200
+[01:01:44] Price13: 300
+[01:01:44] Price14: 20000
+[01:01:44] Price15: 5000
+[01:01:44] Price16: 10000
+[01:01:44] Price17: 200
+[01:01:44] Price18: 1
+[01:01:44] Price19: 2
+[01:01:44] Price20: 10
+[01:01:44] Price21: 20000
+[01:01:44] Price22: 500
+[01:01:44] Price23: 1000
+[01:01:44] Price24: 250
+[01:01:44] Price25: 500
+[01:01:44] Price26: 750
+[01:01:44] Price27: 1000
+[01:01:44] Price28: 250
+[01:01:44] Price29: 29
+[01:01:44] [Family Points] 8 family points has been loaded.
+[01:01:44] TotalSold0: 0 | AmountMade0: 0
+[01:01:44] TotalSold1: 0 | AmountMade1: 0
+[01:01:44] TotalSold2: 0 | AmountMade2: 0
+[01:01:44] TotalSold3: 0 | AmountMade3: 0
+[01:01:44] TotalSold4: 0 | AmountMade4: 0
+[01:01:44] TotalSold5: 0 | AmountMade5: 0
+[01:01:44] TotalSold6: 0 | AmountMade6: 0
+[01:01:44] TotalSold7: 0 | AmountMade7: 0
+[01:01:44] TotalSold8: 0 | AmountMade8: 0
+[01:01:44] TotalSold9: 0 | AmountMade9: 0
+[01:01:44] TotalSold10: 0 | AmountMade10: 0
+[01:01:44] TotalSold11: 0 | AmountMade11: 0
+[01:01:44] TotalSold12: 0 | AmountMade12: 0
+[01:01:44] TotalSold13: 0 | AmountMade13: 0
+[01:01:44] TotalSold14: 0 | AmountMade14: 0
+[01:01:44] TotalSold15: 0 | AmountMade15: 0
+[01:01:44] TotalSold16: 0 | AmountMade16: 0
+[01:01:44] TotalSold17: 0 | AmountMade17: 0
+[01:01:44] TotalSold18: 0 | AmountMade18: 0
+[01:01:44] TotalSold19: 0 | AmountMade19: 0
+[01:01:44] TotalSold20: 0 | AmountMade20: 0
+[01:01:44] TotalSold21: 0 | AmountMade21: 0
+[01:01:44] TotalSold22: 0 | AmountMade22: 0
+[01:01:44] TotalSold23: 0 | AmountMade23: 0
+[01:01:44] TotalSold24: 0 | AmountMade24: 0
+[01:01:44] TotalSold25: 0 | AmountMade25: 0
+[01:01:44] TotalSold26: 0 | AmountMade26: 0
+[01:01:44] TotalSold27: 0 | AmountMade27: 0
+[01:01:44] TotalSold28: 0 | AmountMade28: 0
+[01:01:44] TotalSold29: 0 | AmountMade29: 0
+[01:01:44]  
+[01:01:44]  
+[01:01:44]  
+[01:01:44]  
+[01:02:29] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50876
+[01:02:29] [SA-MP+] Unknown packet received: 19, local: 0
+[01:02:30] [connection] 127.0.0.1:50545 requests connection cookie.
+[01:02:30] [connection] incoming connection: 127.0.0.1:50545 id: 0
+[01:02:31] [connection] incoming connection: 127.0.0.1:50546 id: 0
+[01:02:31] [join] phatbente_z has joined the server (0:127.0.0.1)
+[01:02:31] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:02:43] [SA-MP+] Unhandled connection accepted: 127.0.0.1:58412
+[01:02:43] [SA-MP+] Unknown packet received: 19, local: 0
+[01:02:45] [connection] 127.0.0.1:53797 requests connection cookie.
+[01:02:45] [connection] incoming connection: 127.0.0.1:53797 id: 1
+[01:02:46] [SA-MP+] Connection lost: 127.0.0.1|50876
+[01:02:46] [SA-MP+] Connection status: unhandledConnections: 1, players: 0
+[01:02:50] [part] phatbente_z has left the server (0:0)
+[01:03:00] [connection] incoming connection: 127.0.0.1:57497 id: 0
+[01:03:15] [connection] incoming connection: 127.0.0.1:58471 id: 0
+[01:03:15] [connection] incoming connection: 127.0.0.1:58472 id: 0
+[01:03:16] [join] phatbente_z has joined the server (0:127.0.0.1)
+[01:03:16] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:03:41] [SA-MP+] Connection lost: 127.0.0.1|58412
+[01:03:41] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:03:43] [part] phatbente_z has left the server (0:0)
+[01:03:48] [SA-MP+] Unhandled connection accepted: 127.0.0.1:58572
+[01:03:48] [SA-MP+] Unknown packet received: 19, local: 0
+[01:03:49] [connection] 127.0.0.1:61082 requests connection cookie.
+[01:03:49] [connection] incoming connection: 127.0.0.1:61082 id: 0
+[01:03:49] [connection] incoming connection: 127.0.0.1:61083 id: 0
+[01:03:49] [join] phatbente_z has joined the server (0:127.0.0.1)
+[01:03:49] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:03:53] Bai toan cho 20000$ neu ai tra loi dung --> 55 + 68 - 26 + 89 = ?
+[01:04:03] [SA-MP+] Unhandled connection accepted: 127.0.0.1:52541
+[01:04:03] [SA-MP+] Unknown packet received: 19, local: 0
+[01:04:04] [connection] 127.0.0.1:52542 requests connection cookie.
+[01:04:04] [connection] incoming connection: 127.0.0.1:52542 id: 1
+[01:04:04] [connection] incoming connection: 127.0.0.1:52543 id: 1
+[01:04:05] [connection] incoming connection: 127.0.0.1:54999 id: 1
+[01:04:07] [connection] incoming connection: 127.0.0.1:53727 id: 1
+[01:04:08] [connection] incoming connection: 127.0.0.1:58793 id: 1
+[01:04:09] [SA-MP+] Connection lost: 127.0.0.1|58572
+[01:04:09] [SA-MP+] Connection status: unhandledConnections: 1, players: 0
+[01:04:13] [part] phatbente_z has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:49] password = ""  (string)
+[01:04:49] 
+[01:04:49] Server Plugins
+[01:04:49] --------------
+[01:04:49]  Loading plugin: streamer
+[01:04:49] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[01:04:49]   Loaded.
+[01:04:49]  Loading plugin: mysql
+[01:04:49]  >> plugin.mysql: R33 successfully loaded.
+[01:04:49]   Loaded.
+[01:04:49]  Loading plugin: sscanf
+[01:04:49] 
+
+[01:04:49]  ===============================
+
+[01:04:49]       sscanf plugin loaded.     
+
+[01:04:49]    (c) 2009 Alex "Y_Less" Cole
+
+[01:04:49]    0.3d-R2 500 Players "dnee"
+
+[01:04:49]  ===============================
+
+[01:04:49]   Loaded.
+[01:04:49]  Loading plugin: whirlpool
+[01:04:49]  
+[01:04:49]  ==================
+[01:04:49]  
+[01:04:49]   Whirlpool loaded
+[01:04:49]  
+[01:04:49]  ==================
+[01:04:49]  
+[01:04:49]   Loaded.
+[01:04:49]  Loading plugin: cef
+[01:04:49]   Loaded.
+[01:04:49]  Loading plugin: sampp_server
+[01:04:49] [SA-MP+] Loaded
+[01:04:49]   Loaded.
+[01:04:49]  Loaded 6 plugins.
+
+[01:04:49] 
+[01:04:49] Ban list
+[01:04:49] --------
+[01:04:49]  Loaded: samp.ban
+[01:04:49] 
+[01:04:49] 
+[01:04:49] Filterscripts
+[01:04:49] ---------------
+[01:04:49]   Loading filterscript 'exterior.amx'...
+[01:04:49] AMX (61625768) loaded
+[01:04:49]   Loading filterscript 'interior.amx'...
+[01:04:49] AMX (61581512) loaded
+[01:04:50]   Loading filterscript 'server.amx'...
+[01:04:50] AMX (61517384) loaded
+[01:04:50]   Loading filterscript 'hanhdong.amx'...
+[01:04:50] AMX (61495256) loaded
+[01:04:50]  
+[01:04:50]  ======================================= 
+[01:04:50]  |                                     | 
+[01:04:50]  |        YSI version 3.01.0002        | 
+[01:04:50]  |        By Alex "Y_Less" Cole        | 
+[01:04:50]  |                                     | 
+[01:04:50]  ======================================= 
+[01:04:50]  
+[01:04:50]   Loading filterscript 'object.amx'...
+[01:04:50] AMX (61473128) loaded
+[01:04:50]   Loaded 5 filterscripts.
+
+[01:04:50] AMX (61583144) loaded
+[01:04:50]  
+[01:04:50]  ======================================= 
+[01:04:50]  |                                     | 
+[01:04:50]  |        YSI version 3.01.0002        | 
+[01:04:50]  |        By Alex "Y_Less" Cole        | 
+[01:04:50]  |                                     | 
+[01:04:50]  ======================================= 
+[01:04:50]  
+[01:04:50] Dang chuan bi tai gamemode, xin vui long cho doi...
+[01:04:50] [MySQL] (Main Pipelines) Connecting to localhost...
+[01:04:50] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[01:04:50] Bai toan cho 20000$ neu ai tra loi dung --> 96 + 56 - 82 + 75 = ?
+[01:04:50] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[01:04:50] [LoadCrates] Load Query Sent
+[01:04:50] [LoadHouses] Loading data from database...
+[01:04:50] [LoadDynamicDoors] Loading data from database...
+[01:04:50] [LoadDynamicMapIcons] Loading data from database...
+[01:04:50] [LoadMailboxes] Loading data from database...
+[01:04:50] [LoadBusinesses] Loading data from database...
+[01:04:50] [LoadAuctions] Loading data from database...
+[01:04:50] [LoadTxtLabels] Loading data from database...
+[01:04:50] [LoadPlants] Loading data from database...
+[01:04:50] [SpeedCameras] Loading data from database...
+[01:04:50] [LoadPayNSprays] Loading data from database...
+[01:04:50] [LoadArrestPoints] Loading data from database...
+[01:04:50] [LoadImpoundPoints] Loading data from database...
+[01:04:50] [LoadRelayForLifeTeams] Loading data from database...
+[01:04:50] [LoadBusinessSales] Loading data from database...
+[01:04:50] [LoadTurfWars] 65 turfs loaded.
+[01:04:50] [LoadPaintballArenas] 10 paintball arenas loaded.
+[01:04:50] [LoadEventPoints] 1 event points loaded.
+[01:04:50] [LoadGates] Loading data from database...
+[01:04:50] [LoadElevatorStuff] 20 floors loaded.
+[01:04:50] [LoadFamilies] Dang tai du lieu tu database...
+[01:04:50] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[01:04:50] [MiscLoad] Misc Loaded
+[01:04:50] Resetting news...
+[01:04:50] Resetting default server variables..
+[01:04:50] Adjusted the server time...
+[01:04:50] [Streamer] Loading Dynamic Static Vehicles...
+[01:04:50] [Streamer] Dynamic Static Vehicles has been loaded.
+[01:04:50] [Streamer] Loading Dynamic Pickups...
+[01:04:50] [Streamer] Dynamic Pickups has been loaded.
+[01:04:50] [Streamer] Loading 3D Text Labels...
+[01:04:50] [Streamer] Dynamic 3D Text Labels has been loaded.
+[01:04:50] [Streamer] Loading Dynamic Buttons...
+[01:04:50] [Streamer] Dynamic Buttons has been loaded.
+[01:04:50] [Streamer] Loading Dynamic Objects...
+[01:04:50] [Streamer] Dynamic Objects has been loaded.
+[01:04:50] [Textdraws] Loading Textdraws...
+[01:04:50] [Textdraws] Loaded textdraws.
+[01:04:50] [Dynamic Groups] Loading Dynamic Groups...
+[01:04:50] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[01:04:50] 
+-------------------------------------------
+[01:04:50] SA-MP VN Blog
+
+[01:04:50] Copyright � SA-MP VN Blog 2018
+[01:04:50] sampvn94.blogspot.com
+[01:04:50] -------------------------------------------
+
+[01:04:50] Da chay thanh cong gamemode...
+[01:04:50] Number of vehicle models: 15
+[01:04:50] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[01:04:50] [LoadCrates] Loading Crates Finished
+[01:04:51] [LoadDynamicDoors] 3000 door duoc tai.
+[01:04:51] [LoadDynamicMapIcons] Khong the tai icons map.
+[01:04:51] [LoadMailboxes] 50 mailboxes duoc tai.
+[01:04:51] [LoadBusinesses] 200 businesses rehashed/loaded.
+[01:04:51] [LoadPlants] Successfully loaded 300 plants
+[01:04:51] [SpeedCameras] Khong the tai cac may ban toc do.
+[01:04:51] [LoadRelayForLifeTeams] 200 teams loaded.
+[01:04:51] TotalSold0: 0 | AmountMade0: 0
+[01:04:51] TotalSold1: 0 | AmountMade1: 0
+[01:04:51] TotalSold2: 0 | AmountMade2: 0
+[01:04:51] TotalSold3: 0 | AmountMade3: 0
+[01:04:51] TotalSold4: 0 | AmountMade4: 0
+[01:04:51] TotalSold5: 0 | AmountMade5: 0
+[01:04:51] TotalSold6: 0 | AmountMade6: 0
+[01:04:51] TotalSold7: 0 | AmountMade7: 0
+[01:04:51] TotalSold8: 0 | AmountMade8: 0
+[01:04:51] TotalSold9: 0 | AmountMade9: 0
+[01:04:51] TotalSold10: 0 | AmountMade10: 0
+[01:04:51] TotalSold11: 0 | AmountMade11: 0
+[01:04:51] TotalSold12: 0 | AmountMade12: 0
+[01:04:51] TotalSold13: 0 | AmountMade13: 0
+[01:04:51] TotalSold14: 0 | AmountMade14: 0
+[01:04:51] TotalSold15: 0 | AmountMade15: 0
+[01:04:51] TotalSold16: 0 | AmountMade16: 0
+[01:04:51] TotalSold17: 0 | AmountMade17: 0
+[01:04:51] TotalSold18: 0 | AmountMade18: 0
+[01:04:51] TotalSold19: 0 | AmountMade19: 0
+[01:04:51] TotalSold20: 0 | AmountMade20: 0
+[01:04:51] TotalSold21: 0 | AmountMade21: 0
+[01:04:51] TotalSold22: 0 | AmountMade22: 0
+[01:04:51] TotalSold23: 0 | AmountMade23: 0
+[01:04:51] TotalSold24: 0 | AmountMade24: 0
+[01:04:51] TotalSold25: 0 | AmountMade25: 0
+[01:04:51] TotalSold26: 0 | AmountMade26: 0
+[01:04:51] TotalSold27: 0 | AmountMade27: 0
+[01:04:51] TotalSold28: 0 | AmountMade28: 0
+[01:04:51] TotalSold29: 0 | AmountMade29: 0
+[01:04:51] Price0: 1500
+[01:04:51] Price1: 1000
+[01:04:51] Price2: 1000
+[01:04:51] Price3: 500
+[01:04:51] Price4: 100
+[01:04:51] Price5: 500
+[01:04:51] Price6: 250
+[01:04:51] Price7: 500
+[01:04:51] Price8: 100
+[01:04:51] Price9: 100
+[01:04:51] Price10: 100
+[01:04:51] Price11: 150
+[01:04:51] Price12: 200
+[01:04:51] Price13: 300
+[01:04:51] Price14: 20000
+[01:04:51] Price15: 5000
+[01:04:51] Price16: 10000
+[01:04:51] Price17: 200
+[01:04:51] Price18: 1
+[01:04:51] Price19: 2
+[01:04:51] Price20: 10
+[01:04:51] Price21: 20000
+[01:04:51] Price22: 500
+[01:04:51] Price23: 1000
+[01:04:51] Price24: 250
+[01:04:51] Price25: 500
+[01:04:51] Price26: 750
+[01:04:51] Price27: 1000
+[01:04:51] Price28: 250
+[01:04:51] Price29: 29
+[01:04:51] [Family Points] 8 family points has been loaded.
+[01:04:52]  
+[01:04:52]  
+[01:04:52]  
+[01:04:52]  
+[01:04:56] [SA-MP+] Unhandled connection accepted: 127.0.0.1:64205
+[01:04:56] [SA-MP+] Unknown packet received: 19, local: 0
+[01:04:57] [connection] 127.0.0.1:58499 requests connection cookie.
+[01:04:57] [connection] incoming connection: 127.0.0.1:58499 id: 0
+[01:04:57] [connection] incoming connection: 127.0.0.1:58501 id: 0
+[01:04:57] [join] phatbente_z has joined the server (0:127.0.0.1)
+[01:04:57] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:05:04] phatbente z has logged in.
+[01:05:11] [zcmd] [phatbente z]: /pld
+[01:05:22] [zcmd] [phatbente z]: /sampvn
+[01:06:34] [part] phatbente_z has left the server (0:1)
+[01:06:34] [SA-MP+] Disconnected: 127.0.0.1|64205
+[01:06:34] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:07:01] Bai toan cho 20000$ neu ai tra loi dung --> 95 + 76 - 54 + 89 = ?
